@@ -1,0 +1,96 @@
+
+
+/*TUDO DENTRO DO BODY*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+/*PARTE DE CIMA DO SITE (AZUL)*/
+header {
+    background-color: #1f6ce0;
+    color: #fff;
+    padding: 10px;
+}
+
+
+
+/*TEXTO KADU MODAS PRESENTE*/
+.texto1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* REFERENTE AO HOME SOBRE CONTATO*/
+.texto2{
+  display: flex;
+  justify-content: center;
+  align-items: cent;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+  
+}
+
+/*DEIXA UM DO LADO DO OUTRO (HOME SOBRE CONTATO) */
+.menu-itens{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  background-size: 100%;
+}
+
+.card-group{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("teste.jpg");
+  max-height: none;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 100%;
+}
+
+
+/*DANDO COR AO RODAPÉ*/
+.footer{
+  background-color: #1f6ce0;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  
+}
+
+/*TEXTO DO RODAPÉ*/
+.texto5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.central{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 2px solid;
+  text-align: center;
+  width: 570px;
+  height: px;
+  margin: 100px;
+  color: black;
+}
+
+body{
+  background-image: url("fundo.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.logo{
+  max-width: 200px;
+  max-height: 200px;
+  padding-left: 10px;
+}
